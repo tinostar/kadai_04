@@ -1,0 +1,46 @@
+body {
+    font-family: "Kinto Sans";
+}
+
+h1 {
+    color: yellowgreen;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+textarea {
+    vertical-align:top;
+}
+
+button {
+    display: inline-block;
+    margin-bottom: 10px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    width: 10%;
+    height: 2rem;
+}
+
+#uname {
+    margin-top: 20px;
+    margin-bottom: 16px;
+}
+
+#text {
+    margin-top: 20px;
+}
+
+#output {
+    margin:  100px auto;
+    width: 500px; 
+    height: 300px;
+}
+
+
